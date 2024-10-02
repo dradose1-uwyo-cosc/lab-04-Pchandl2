@@ -1,8 +1,8 @@
-# Your Name Here
+# Peyton Chandler
 # UWYO COSC 1010
-# Submission Date
-# Lab 03 
-# Lab Section: 
+# 10/1/24
+# Lab 04 
+# Lab Section: 11
 # Sources, people worked with, help given to: 
 # your
 # comments

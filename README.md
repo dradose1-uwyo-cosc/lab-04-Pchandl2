@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Peyton Chandler
+## Lab 4
+## 10/1/24
 ## Worked with/sources 
 * example
 * example
